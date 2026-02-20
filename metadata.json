@@ -1,0 +1,7 @@
+{
+  "name": "Mente Mestra de Apostas",
+  "description": "Analista sénior de apostas desportivas orientado a valor (EV+) e gestão de risco.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
